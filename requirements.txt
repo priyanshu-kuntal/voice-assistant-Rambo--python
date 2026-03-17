@@ -1,0 +1,9 @@
+SpeechRecognition
+PyAudio
+pyttsx3
+keyboard
+pyautogui
+psutil
+pywin32
+fastapi
+uvicorn
